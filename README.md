@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="glasses-lie-laptop-reflecting-light-from-screen-dark.jpg" alt="A cool banner image for my GitHub profile" />
-</p>
 
-<h1 align="center">Hi there, I'm Surya </h1>
-<h3 align="center">A passionate developer from Mohali, India </h3>
+<h1 align="center">Hi! I'm Surya thakur</h1>
+<h3 align="center">An artificial intelligence and machine learing student </h3>
 
 ---
 
