@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.app.goo.gl/9DYmrjDdwJQdz9aJ6" alt="A cool banner image for my GitHub profile" />
+  <img src="glasses-lie-laptop-reflecting-light-from-screen-dark.jpg" alt="A cool banner image for my GitHub profile" />
 </p>
 
 <h1 align="center">Hi there, I'm Surya </h1>
@@ -27,8 +27,8 @@
 ### My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats Card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical" alt="Top Languages Card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siuuuuurya&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats Card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siuuuuurya&layout=compact&theme=radical" alt="Top Languages Card" />
 </p>
 
 ---
