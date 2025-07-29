@@ -16,7 +16,7 @@
 - Pronouns: **He/Him**
 ---
 
-###  Langs I know
+###  tools and lang I know
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,python,git" alt="My Tech Stack"/>
